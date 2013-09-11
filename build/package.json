@@ -1,0 +1,26 @@
+{
+	"name": "files_licencewizard",
+	"description": "Module owncloud to attach a licence to a file.",
+	"version": "0.0.1",
+	"private": true,
+	"homepage": "https://github.com/owncloud/files_licencewizard",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:owncloud/files_licencewizard.git"
+	},
+	"bugs": "https://github.com/owncloud/files_licencewizard/issues",
+	"dependencies": {},
+	"devDependencies": {
+		"grunt": "*",
+		"grunt-cli": "*",
+		"grunt-contrib-concat": "*",
+		"grunt-contrib-jshint": "*",
+		"grunt-contrib-watch": "*",
+		"karma": "*",
+		"grunt-karma": "*",
+		"grunt-wrap": "*",
+		"phantomjs": "*",
+		"grunt-phpunit": "*"
+	},
+	"engine": "node >= 0.8"
+}

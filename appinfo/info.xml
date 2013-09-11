@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>files_licencewizard</id>
+	<name>Files Licence Wizard</name>
+	<description>Module owncloud to attach a licence to a file.</description>
+	<licence>AGPLv3</licence>
+	<author>Valentin GRIMAUD</author>
+	<version>0.001</version>
+	<require>5.0.0</require>
+</info>
